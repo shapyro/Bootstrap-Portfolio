@@ -1,9 +1,15 @@
 .navbar-brand {
-  background: orange;
+  background: darkorange;
 }
-p {
+
+.jumbotron {
   overflow: auto;
 }
+#me {
+  float: left;
+  margin: 1%;
+}
+
 .social {
   width: 62px;
   height: 62px;
