@@ -1,3 +1,10 @@
 .navbar-brand {
   background: orange;
 }
+.social {
+  width: 62px;
+  height: 62px;
+  margin-top: 8px;
+  margin-right: 5px;
+}
+
