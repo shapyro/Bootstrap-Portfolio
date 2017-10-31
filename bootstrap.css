@@ -1,6 +1,9 @@
 .navbar-brand {
   background: orange;
 }
+p {
+  overflow: auto;
+}
 .social {
   width: 62px;
   height: 62px;
@@ -8,3 +11,6 @@
   margin-right: 5px;
 }
 
+.well {
+  text-align: center;
+}
