@@ -5,6 +5,7 @@
 .jumbotron {
   overflow: auto;
 }
+
 #me {
   float: left;
   margin: 1%;
@@ -19,4 +20,44 @@
 
 .well {
   text-align: center;
+}
+
+/*
+@media screen and (max-width: 980px) {
+  #shimmer {
+    width: 91%;
+    height: 91%;
+    float: none;
+  }
+} */
+
+
+ /*
+@media screen and (max-width: 768px) {
+  .navbar .in .nav li {
+    display: block;
+    float: none;
+    width:100%;
+ }
+
+  #shimmer {
+  width: 200px;
+  height: 200px;
+  float: left;
+  }
+
+  aside {
+    clear: both;
+    float: left;
+    margin: 0 0 30px 60px;
+  }
+
+  */
+  
+@media screen and (max-width: 640px) {
+  #me {
+    margin: 0;
+    float: none;
+    width: 100%;
+  }
 }
