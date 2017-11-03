@@ -1,8 +1,13 @@
+body {
+  background-image: url(images/dust_scratches.png);
+}
+
 .navbar-brand {
   background: darkorange;
 }
 
 .jumbotron {
+  background: white;
   overflow: auto;
 }
 
@@ -16,6 +21,10 @@
   height: 62px;
   margin-top: 8px;
   margin-right: 5px;
+}
+
+#message {
+  height: 300px;
 }
 
 .well {
