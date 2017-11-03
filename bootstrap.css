@@ -55,6 +55,10 @@
   */
   
 @media screen and (max-width: 640px) {
+  .container-fluid {
+    padding: 0;
+  }
+  
   #me {
     margin: 0;
     float: none;
